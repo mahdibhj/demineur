@@ -1,0 +1,46 @@
+Noms:
+Numéros de dossier (NI):
+
+Correction
+==========
+
+Fonctionnalités obligatoires
+----------------------------
+/10 Le déroulement du jeu et le dévoilement des cases sont adéquats
+/10 On peut configurer la taille de damier et le nombre de mines
+/5 On peut démarrer une nouvelle partie en tout temps
+/5 Le bouton quitter est fonctionnel (incluant un message de validation) 5 points
+/10 Un message annonce la victoire/défaite du joueur
+/5 La solution est affichée lors d’une défaite
+/5 Le jeu n’est plus cliquable lorsque la partie est terminée
+/10 La sauvegarde et chargement de la partie sont fonctionnels
+
+Commentaires:
+
+Total: /60
+
+Fonctionnalités facultatives
+----------------------------
+
+IMPORTANT:
+Indiquez ici la liste des fonctionnalités (avec leur numéro et nom) que vous avez implémentées. 
+
+- # 00 : Nom de la fonctionnalité
+- # 00 : Nom de la fonctionnalité
+- # 00 : Nom de la fonctionnalité
+- etc.
+
+Commentaires:
+
+Total: /40
+
+
+Pénalités
+---------
+
+
+Commentaires du correcteur
+--------------------------
+
+
+Total : /100
